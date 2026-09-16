@@ -15,6 +15,7 @@ categories:
 applyUrl: "https://ilovevideoeditor.com/pricing"
 sourceUrl: "https://ilovevideoeditor.com/pricing"
 lastVerified: 2026-07-13
+expiresAt: 2027-07-31
 verified: false
 isActive: true
 ---
